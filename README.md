@@ -6,8 +6,14 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project links
+
+- [Weights & Biases project](https://wandb.ai/avenirfley_wand/nyc_airbnb)
+- [GitHub repository](https://github.com/avenirfley/Project-Build-an-ML-Pipeline-Starter)
+
 ## Table of contents
 
+- [Project links](#project-links)
 - [Preliminary steps](#preliminary-steps)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
